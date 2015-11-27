@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "Noor",
+  "repo": "x-c0d3rz/Noor",
+  "files": {
+    "include": ["js/noor.js", "css/page.css", "img/logo.png","img/noor.png","img/bot.png"]
+  }
+}
